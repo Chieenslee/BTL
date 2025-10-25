@@ -105,4 +105,4 @@ Dobule click run.bat
 
 ## Tác giả
 
-Dự án bài tập lớnlớn - Tối ưu hóa lộ trình du lịch sử dụng thuật toán nhánh cận.
+Dự án bài tập lớn - Tối ưu hóa lộ trình du lịch sử dụng thuật toán nhánh cận.
