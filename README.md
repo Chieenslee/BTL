@@ -24,6 +24,10 @@ python app.py
 3. **Truy cập ứng dụng:**
 Mở trình duyệt và truy cập: `http://localhost:5000`
 
+SSS. **Cách khác**
+```bash
+Dobule click run.bat
+```
 ## Cách sử dụng
 
 ### 1. Nhập dữ liệu thủ công
