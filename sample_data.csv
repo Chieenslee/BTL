@@ -1,0 +1,23 @@
+city
+Hà Nội
+TP. Hồ Chí Minh
+Đà Nẵng
+Hải Phòng
+Cần Thơ
+Nha Trang
+Huế
+Vũng Tàu
+
+from,to,distance
+Hà Nội,Hải Phòng,102
+Hà Nội,Đà Nẵng,764
+Hà Nội,Huế,688
+Hà Nội,TP. Hồ Chí Minh,1726
+Hải Phòng,Đà Nẵng,662
+Đà Nẵng,Huế,103
+Đà Nẵng,Nha Trang,531
+Huế,TP. Hồ Chí Minh,1038
+Nha Trang,TP. Hồ Chí Minh,441
+TP. Hồ Chí Minh,Vũng Tàu,95
+TP. Hồ Chí Minh,Cần Thơ,169
+Cần Thơ,Nha Trang,610

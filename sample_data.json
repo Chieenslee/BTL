@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {"name": "Hà Nội"},
+    {"name": "TP. Hồ Chí Minh"},
+    {"name": "Đà Nẵng"},
+    {"name": "Hải Phòng"},
+    {"name": "Cần Thơ"},
+    {"name": "Nha Trang"},
+    {"name": "Huế"},
+    {"name": "Vũng Tàu"}
+  ],
+  "distances": [
+    {"from": "Hà Nội", "to": "Hải Phòng", "weight": 102},
+    {"from": "Hà Nội", "to": "Đà Nẵng", "weight": 764},
+    {"from": "Hà Nội", "to": "Huế", "weight": 688},
+    {"from": "Hà Nội", "to": "TP. Hồ Chí Minh", "weight": 1726},
+    {"from": "Hải Phòng", "to": "Đà Nẵng", "weight": 662},
+    {"from": "Đà Nẵng", "to": "Huế", "weight": 103},
+    {"from": "Đà Nẵng", "to": "Nha Trang", "weight": 531},
+    {"from": "Huế", "to": "TP. Hồ Chí Minh", "weight": 1038},
+    {"from": "Nha Trang", "to": "TP. Hồ Chí Minh", "weight": 441},
+    {"from": "TP. Hồ Chí Minh", "to": "Vũng Tàu", "weight": 95},
+    {"from": "TP. Hồ Chí Minh", "to": "Cần Thơ", "weight": 169},
+    {"from": "Cần Thơ", "to": "Nha Trang", "weight": 610}
+  ]
+}
