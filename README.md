@@ -101,4 +101,4 @@ Mở trình duyệt và truy cập: `http://localhost:5000`
 
 ## Tác giả
 
-Dự án nghiên cứu khoa học - Tối ưu hóa lộ trình du lịch sử dụng thuật toán nhánh cận.
+Dự án bài tập lớnlớn - Tối ưu hóa lộ trình du lịch sử dụng thuật toán nhánh cận.
